@@ -61,8 +61,8 @@
 <!-- Footer-->
 <footer class="py-5 bg-dark">
             <div class="container">
-              <p class="m-0 text-center text-white">Copyright &copy; Aastha 2022</p>
-              <p class="m-0 text-center text-white">Developed By: <a href="e-Indhann">Aastha paudel</a></p>
+              <p class="m-0 text-center text-white">Copyright &copy; Mercury 2023</p>
+              <p class="m-0 text-center text-white">Developed By: <a href="e-Indhann"></a>mercury</p>
           </div>
         </footer>
 
